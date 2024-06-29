@@ -6,4 +6,4 @@ hello this is the blog of mohammad turani an aspiring computer scientest,
 
 Table of content:
 ---
-[data API project](https://github.com/tur3ani/skills-github-pages/blob/main/_posts/2024-6-30-API_data_visualaziation_project.md)
+{% post_url /_posts/2024-06-30-introduction.md %}
