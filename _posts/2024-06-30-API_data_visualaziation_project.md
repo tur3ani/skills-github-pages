@@ -1,4 +1,4 @@
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "API project"
 ---
-title: a project about using API and using pygal for visualizing the information that you get from the api
+a project about using API and using pygal for visualizing the information that you get from the api
