@@ -6,6 +6,7 @@ hello this is the blog of mohammad turani an aspiring computer scientest,
 
 Table of content:
 ---
+
 <ul>
   {% for post in site.posts %}
     <li>
