@@ -1,6 +1,9 @@
 ---
 title: Welcome to my blog
 ---
-content: an archive for my different computer science work.
+hello this is the blog of mohammad turani an aspiring computer scientest,
+ below you will see the table of content which will be updated regularly with my notes, projects, or books that i read
+
+Table of content:
 ---
 
